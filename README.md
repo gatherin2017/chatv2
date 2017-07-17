@@ -416,3 +416,4 @@ Now run the app and you will see the Chat SDK login screen open when the app lau
 
 If you have any problems Firebase offer good [documentation](https://www.firebase.com/docs/android/quickstart.html) and Facebook has an [integration guide](https://developers.facebook.com/docs/android/getting-started).
 # chatv2
+# chat-2onglets
